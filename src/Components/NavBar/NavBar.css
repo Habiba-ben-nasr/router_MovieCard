@@ -1,0 +1,17 @@
+.color-Nav{
+    background-color: #8f2f4a;
+   
+
+}
+
+.navRating{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.adding{
+    float: right;
+}
+/* .hassen{
+    width: 100% !important;
+} */
